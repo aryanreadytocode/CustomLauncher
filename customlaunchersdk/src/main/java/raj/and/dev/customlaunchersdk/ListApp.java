@@ -1,4 +1,4 @@
-package raj.and.dev.customlauncher.sdk;
+package raj.and.dev.customlaunchersdk;
 
 import android.content.Context;
 import android.content.Intent;
@@ -20,7 +20,7 @@ import io.reactivex.rxjava3.core.Observable;
 public class ListApp {
     private static List<AppInfo> appsList;
 
-    public static Observable<List<AppInfo>> getAllTheApplications(final Context context, String searchQuery) {
+    public static Observable<List<AppInfo>> getAllTheApplications(final Context context, final String searchQuery) {
 
         return Observable.fromCallable(new Callable<List<AppInfo>>() {
             @Override

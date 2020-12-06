@@ -22,7 +22,7 @@ import java.util.List;
 
 import raj.and.dev.customlauncher.R;
 import raj.and.dev.customlauncher.databinding.RowLayoutBinding;
-import raj.and.dev.customlauncher.sdk.AppInfo;
+import raj.and.dev.customlaunchersdk.AppInfo;
 
 /**
  * Created by Raj Aryan on 12/4/2020.

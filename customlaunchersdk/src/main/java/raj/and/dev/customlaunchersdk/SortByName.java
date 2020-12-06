@@ -1,4 +1,4 @@
-package raj.and.dev.customlauncher.sdk;
+package raj.and.dev.customlaunchersdk;
 
 import java.util.Comparator;
 

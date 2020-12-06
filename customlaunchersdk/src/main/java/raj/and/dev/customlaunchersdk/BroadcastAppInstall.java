@@ -1,12 +1,10 @@
-package raj.and.dev.customlauncher.sdk;
+package raj.and.dev.customlaunchersdk;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 import android.widget.Toast;
-
-import java.util.Objects;
 
 /**
  * Created by Raj Aryan on 12/5/2020.

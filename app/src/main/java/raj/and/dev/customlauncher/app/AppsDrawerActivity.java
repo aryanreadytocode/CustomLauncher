@@ -34,10 +34,10 @@ import io.reactivex.rxjava3.internal.operators.observable.ObservableFromCallable
 import io.reactivex.rxjava3.schedulers.Schedulers;
 import raj.and.dev.customlauncher.R;
 import raj.and.dev.customlauncher.databinding.ActivityAppsDrawerBinding;
-import raj.and.dev.customlauncher.sdk.AppInfo;
-import raj.and.dev.customlauncher.sdk.BroadcastAppInstall;
-import raj.and.dev.customlauncher.sdk.ListApp;
-import raj.and.dev.customlauncher.sdk.Utils;
+import raj.and.dev.customlaunchersdk.AppInfo;
+import raj.and.dev.customlaunchersdk.BroadcastAppInstall;
+import raj.and.dev.customlaunchersdk.ListApp;
+import raj.and.dev.customlaunchersdk.Utils;
 
 public class AppsDrawerActivity extends AppCompatActivity {
 

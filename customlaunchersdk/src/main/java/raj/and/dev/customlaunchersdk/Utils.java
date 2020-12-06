@@ -1,4 +1,4 @@
-package raj.and.dev.customlauncher.sdk;
+package raj.and.dev.customlaunchersdk;
 
 import android.content.ComponentName;
 import android.content.Context;

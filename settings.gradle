@@ -1,2 +1,3 @@
 rootProject.name='Custom Launcher'
 include ':app'
+include ':customlaunchersdk'
